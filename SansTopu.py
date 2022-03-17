@@ -5,6 +5,7 @@ import random
 
 window = Tk()
 window.geometry('800x600')
+window.title('Sans Topağı')
 var= StringVar()
 tb = Label(textvariable=var)
 def sans():
