@@ -33,5 +33,4 @@ def teklifler():
     print(*z, sep='\n')
 
 
-
 teklifler()
